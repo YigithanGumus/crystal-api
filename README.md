@@ -29,7 +29,5 @@ A lightweight Node.js API for handling requests with clarity and efficiency. Ide
 
 1. **Clone the repository / Depoyu klonlayın**:
    ```bash
-   git clone https://github.com/yourusername/crystal-api.git
+   git clone https://github.com/YigithanGumus/crystal-api.git
    cd crystal-api
-
-Bu README dosyası, `crystal-api` projesinin amacını, özelliklerini, kurulum adımlarını ve katkıda bulunma yönergelerini hem İngilizce hem de Türkçe olarak içeriyor.
